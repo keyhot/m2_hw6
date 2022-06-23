@@ -413,7 +413,6 @@ Nicola	Getley
 Gallagher	Sutworth	
 Beltran	Harby	
 Candace	Loughney	
-Heinrik	Coppock.
 Selle	Goudge	
 Krishna	Woodworth	
 Milt	Jeratt	
@@ -472,7 +471,6 @@ Kira	Clemont
 Padraic	Metzing	
 Deborah	L'Episcopi	
 Kirby	Reece	
-Patty	Taunton.
 Vivien	Le-Good	
 Janot	Tankin	
 Penny	Lohrensen	
